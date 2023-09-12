@@ -1,0 +1,11 @@
+[package]
+name = "monkeylang-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["robherley <rob4@duck.com>"]
+
+[lib]
+name = "monkeylang"
+path = "lib/lib.rs"
+
+[dependencies]
